@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+third.user;Python+Enthusiast+%7C+Bot+Builder;Bang Energy-powered+Developer+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+third.user;Python+Enthusiast+%7C+Bot+Builder;Bang Energy-powered+Developer+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://wallpapers.com/images/featured/4k-aesthetic-anime-qd4ytudgcxbxzab2.jpg" alt="third.user banner" width="600"/>
