@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/6UGORJL.png" width="70%" alt="third.user banner"/>
+  <img src="https://wallpapers.com/images/featured/4k-aesthetic-anime-qd4ytudgcxbxzab2.jpg" alt="third.user banner"/>
 </p>
 
 ---
