@@ -6,10 +6,18 @@
 🐍・Python enthusiast  
 💻・Experienced with JavaScript and C++
 
-## 🧠 Languages
+## 🧠 Languages (Known to Least Known)
 - Python  
 - JavaScript  
 - C++
+
+---
+
+### 🎯 Fun Facts About Me
+- I love building bots and automation tools  
+- My favorite text editor is VS Code  
+- I started programming with Python and never looked back  
+- I think semicolons are overrated (sorry, JavaScript 😅)
 
 ---
 
@@ -17,9 +25,3 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus&logoColor=blue)
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=third-user&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=third-user&layout=compact&theme=tokyonight)
