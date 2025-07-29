@@ -42,6 +42,7 @@ _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory Ho
 ### 🖤 Profile Card
 
 Name: third.user  
+Old Name: Wan ;)
 Role: Python Enthusiast & Automation Dev  
 Location: Internet-connected 🌐  
 Fav Tool: VS Code
