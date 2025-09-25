@@ -10,7 +10,7 @@
 ---
 
 ### 🌐 Website  
-[wanportfolio.vercel.app](https://wanportfolio.vercel.app/)  
+[Wan](https://wan.tazl.dev)  
 
 ### 🚀 Project  
 [Vaultify Bot](https://vaultifybot.vercel.app/)
@@ -58,6 +58,6 @@ Fav Tool: VS Code
 ### 📫 Contact Me
 
 📧 Email: [wansbussiness@gmail.com](mailto:wansbussiness@gmail.com)  
-🌐 Portfolio: [wanportfolio.vercel.app](https://wanportfolio.vercel.app/)  
+🌐 Portfolio: [Wan](https://wan.tazl.dev)  
 🧪 Project: [Vaultify Bot](https://vaultifybot.vercel.app/)
 
