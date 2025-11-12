@@ -13,7 +13,7 @@
 [Wan](https://wan.tazl.dev)  
 
 ### 🚀 Project  
-[Vaultify Bot](https://vaultifybot.vercel.app/)
+Making Websites
 
 ---
 
