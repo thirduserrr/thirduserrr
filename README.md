@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi Im Wan
 
-<!--
-**thirduserrr/thirduserrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building modern web experiences and practical digital products.  
+Focused on clean design, solid engineering, and projects that actually ship.
 
-Here are some ideas to get you started:
+## What I Do
+- Frontend & backend development  
+- UI-focused website builds  
+- App creation for startups and small teams  
+- Product planning and execution  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I use
+Vs Code
+Python
+Typescript
+Javascript
+
+## About Eyora Inc
+Eyora Inc is a small, fast-moving studio creating websites, apps, and tools with a focus on clarity, speed, and real-world use.
+
+# Projects
+Gitinisght: https://gitinsight.pages.dev/
+Eyora Inc: Soon
+
+## Currently
+Collaborating with developers, expanding Eyora’s project lineup, and refining new product ideas.
+
+## Contact
+Email : wancodes@proton.me
+Twitter: https://twitter.com/wandevs
+Discord: 0ywo
