@@ -19,8 +19,7 @@ Javascript
 Eyora Inc is a small, fast-moving studio creating websites, apps, and tools with a focus on clarity, speed, and real-world use.
 
 # Projects
-Gitinisght: https://gitinsight.pages.dev/
-Eyora Inc: Soon
+personal use projects
 
 ## Currently
 Collaborating with developers, expanding Eyora’s project lineup, and refining new product ideas.
